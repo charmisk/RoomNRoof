@@ -1,16 +1,16 @@
 // Import the functions you need from the SDKs you need
-import { initializeApp } from "firebase/app";
+import { initializeApp } from 'firebase/app';
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-  authDomain: "surat-estate.firebaseapp.com",
-  projectId: "surat-estate",
-  storageBucket: "surat-estate.appspot.com",
-  messagingSenderId: "718523417019",
-  appId: "1:718523417019:web:d7adaad584f3c9c6b6449e"
+  authDomain: "roomnroof-ef553.firebaseapp.com",
+  projectId: "roomnroof-ef553",
+  storageBucket: "roomnroof-ef553.appspot.com",
+  messagingSenderId: "482634070613",
+  appId: "1:482634070613:web:6cfdd1548770424342b2dc"
 };
 
 // Initialize Firebase
